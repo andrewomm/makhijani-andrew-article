@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+:root {
+  /* COLOURS: */
+  --fontcolor: #0B2545;
+  --mediumcolor: #3F434E;
+  --backgroundcolor: #AAAAAA;
+  --lightcolor: #EEF4ED;
+  --darkcolor: #03191E;
+
+  /* FONTS: */
+  --serif: 'DM Serif Display', georgia, serif;
+  --sans: 'Open Sans', helvetica, arial, sans-serif;
+}
+body { 
+  background-color: #AAAAAA;
+  color: #0B2545;
+
+font-weight: 600;
+font-style: italic;
+font-size: 1.25em;
+font-family: georgia, 'DM Serif Display', serif;
+
+line-height: 1.25;
+text-align: justify;
+}
+h1 {
+  text-transform: uppercase;
+  color: rgb(87, 181, 224);
+  opacity: 1;
+  font-size: 2em;
+  background-color: rgb(40, 93, 163);
+}
+
+h2 {
+  text-transform: uppercase;
+  text-align: center;
+  color: rgb(5, 18, 133);
+}
+h3 {
+  text-transform: uppercase;
+  text-align: center;
+  color: rgb(173, 235, 115);
+}
+h4 {
+  text-align: left;
+  color: rgb(180, 18, 167);
+}
+
+.highlight {
+  text-transform: uppercase;
+  color: rgb(158, 75, 158);
+}
+.job-task {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 150;
+  font-style: italic;
+  line-height: 2;
+}
+
+.Supplements {
+  background-color: rgb(197, 90, 90);
+}
+.Caloric-Intake {
+  background-color: rgb(120, 99, 197);
+}
+.Daily-Routine {
+  background-color: rgb(95, 119, 199);
+}
+.Proteins-Carbs {
+  background-color: rgb(201, 121, 83);
+}
+
+.social-media {
+  padding-left: 0;
+}
+.social-media > li {
+  display: inline-block;
+  background-color: rgb(241, 191, 226);
+  margin-right: 1em;
+  padding: 1em;
+}

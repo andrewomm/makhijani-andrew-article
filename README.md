@@ -7,6 +7,8 @@ Email:        andrew.makhijani@georgebrown.ca
 Submitted:    July 5, 2019
 Notes:       hi
 I have reviewed the appropriate checklist before submitting this work, there isnt any site i looked at but i did follow your code from the files that were given on blackboard.
+Feedbacks:  https://github.com/lukastomasek/tomasek-lukas-a2/issues/2
+https://github.com/Ahmed641/Ahmed-Mohamed-Article/issues/1
 Colors
  #0B2545;
  #3F434E;
